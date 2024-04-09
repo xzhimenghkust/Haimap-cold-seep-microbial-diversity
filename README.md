@@ -6,7 +6,7 @@ R code: "coldseep RNA DNA 0-10cm.R"
 Community Data: "asv_18s.txt" for microeukaryotes,
                  "asv_table_16s.txt" for prokaryotes
                  
-Taxonomy file: "taxonomy-18s.tsv" for prokaryotes
+Taxonomy file: "taxonomy-18s.tsv" for microeukaryotes,
               "taxonomy-16s.tsv" for prokaryotes
 
 Metadata: "SEM_data_for_16S.csv" which contains all environmental data and calculated richness
